@@ -1,1 +1,1 @@
-# NextGenTech.
+# NextGenTech platform 
